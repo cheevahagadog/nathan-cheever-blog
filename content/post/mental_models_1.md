@@ -13,7 +13,7 @@ categories: [Longer]
 ### Introduction
 Recently, I picked up an old college textbook I'd saved, thinking someday I'd peruse its pages and maybe get interested in Biology again. Well, the other day I finally did. While reading the introduction, two mental models stood out to me: the mental models of Orienteering and Topographic Thinking.
 
-In this piece, I'm going to relate these two models as my professor taught them, and then extend it to Plato and courage; however, as I hope you'll see, these models have implications beyond Biology and Plato. And I hope this helps how you see the world.
+In this piece, I'm going to relate these two models as my professor taught them, and then perhaps in later posts extend it to other concepts and writers. As I hope you'll see, these models have implications in your everyday life. And I hope this helps how you see the world.
 
 ### The maps in our head
 We all have maps in our heads, that is, representations of how we see the world. Maps enable us to "navigate by expectation".[^1] When we say, "we're just crossing over the canal so we should see Betos (which is the best Mexican restaurant IMO) at the next right," we're using a mental map. 

@@ -5,7 +5,7 @@ title: "Reading the Classics is Good for your Health"
 subtitle: "But that's not the only reason to read them" 
 author: "Nathan Cheever"
 date: 2022-06-16
-published: true
+published: false
 tags: [philosophy]
 
 categories: [Shorter]
