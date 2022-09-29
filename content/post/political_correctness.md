@@ -3,7 +3,7 @@ layout:  post
 title: "Political Correctness and Respect"
 subtitle: "What is political correctness?"
 author:  "Nathan Cheever"
-
+published: false
 tags: [life lessons]
 
 categories: [ Shorter ]

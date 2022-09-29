@@ -5,7 +5,7 @@ title: "Protagoras: Praise vs Cheer"
 subtitle: " " 
 author: "Nathan Cheever"
 date: 2022-06-15
-published: true
+published: false
 tags: [rough-hewn]
 
 categories: [Shorter]

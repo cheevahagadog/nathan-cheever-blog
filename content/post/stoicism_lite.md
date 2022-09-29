@@ -7,6 +7,7 @@ author: "Nathan Cheever"
 date: 2022-07-15
 #image: "/img/sunder-muthukumaran-d7SxBxEAOfU-unsplash.jpg"
 tags: [philosophy]
+published: False
 
 categories: [Longer]
 
