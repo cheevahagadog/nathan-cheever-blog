@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:site_name" content="Nathan Cheever">
+    <meta property="og:type" content="article">
+
+    
+    <meta property="og:image" content="https://www.nathancheever.com/img/book_background.jpg">
+    <meta property="twitter:image" content="https://www.nathancheever.com/img/book_background.jpg" />
+    
+
+    
+    <meta name="title" content="How to get up and running with an analog Zettlekästen (slipbox)" />
+    <meta property="og:title" content="How to get up and running with an analog Zettlekästen (slipbox)" />
+    <meta property="twitter:title" content="How to get up and running with an analog Zettlekästen (slipbox)" />
+    
+
+    
+    <meta name="description" content="Ideas I&#39;m working on">
+    <meta property="og:description" content="Ideas I&#39;m working on" />
+    <meta property="twitter:description" content="Ideas I&#39;m working on" />
+    
+
+    
+    <meta property="twitter:card" content="summary" />
+    
+    
+
+    <meta name="keyword"  content="morality, life lessons, living well, transcendent, human purpose, metaphysics">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>How to get up and running with an analog Zettlekästen (slipbox)-Vertical Thinking Blog</title>
+
+    <link rel="canonical" href="/post/zettlekasten/">
+
+    <link rel="stylesheet" href="/css/iDisqus.min.css"/>
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
+
+    
+    <link rel="stylesheet" href="/css/zanshang.css">
+
+    
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" type="text/css">
+
+    
+    
+
+    
+    
+    <script src="/js/jquery.min.js"></script>
+
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+    
+    <script src="/js/hux-blog.min.js"></script>
+
+    
+    
+
+</head>
+
+
+
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+
+    <div class="container-fluid">
+        
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Nathan Cheever</a>
+        </div>
+
+        
+        
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    
+                        
+                        <li>
+                            <a href="/categories/longer">longer</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/shorter">shorter</a>
+                        </li>
+                        
+                    
+                    
+		    
+                        <li><a href="/top/about/">ABOUT</a></li>
+                    
+
+                    
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    
+</nav>
+<script>
+    
+    
+    
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        
+            $navbar.className = " ";
+            
+            setTimeout(function(){
+                
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+
+
+<style type="text/css">
+    header.intro-header {
+        background-image: url('/img/book_background.jpg')
+    }
+</style>
+
+<header class="intro-header" >
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/writing" title="writing">
+                            writing
+                        </a>
+                        
+                        <a class="tag" href="/tags/zettlekasten" title="zettlekasten">
+                            zettlekasten
+                        </a>
+                        
+                    </div>
+                    <h1>How to get up and running with an analog Zettlekästen (slipbox)</h1>
+                    <h2 class="subheading">Three months and 110&#43; cards in, the lessons learned the hard way</h2>
+                    <span class="meta">
+                        
+                            By 
+                            
+                                Nathan Cheever
+                             
+                            
+                            
+                            
+                            
+                            
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+<article>
+    <div class="container">
+        <div class="row">
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                
+                <h2 id="preface">Preface</h2>
+<p>There is a veritable plethora of videos and articles on how to setup a digital Zettlekästen. There are tons of blogs and forums about Niklas Luhmann&rsquo;s practice, his prolific publishing record.</p>
+<p>So why add another one? Frankly most of them aren&rsquo;t that helpful. I learn by seeing how something is actually done, especially an analog process. And more importantly, I want it to be true to the process Luhmann discovered. I know there are other methods out there, but this one is specifically for the Zettlekästen, so I want an authentic breakdown.</p>
+<p>This post is the culmination of hundreds of hours of research and practice of trying to do an analog zettlekästen &ldquo;the right way&rdquo;, or as close to it as makes sense.</p>
+<p>If you&rsquo;re looking for something like that for yourself, read on. This post is for you if you have a good idea of what it is and why it&rsquo;s awesome, but it&rsquo;s unclear how to get started with your analog. So I&rsquo;m going to assume you&rsquo;re familiar with Niklas Luhmann, what a Zettlekästen is, and general information about it. I just want to focus on the nuts and bolts of working in an analog system.</p>
+<p>If you&rsquo;re not familiar with what it is, checkout these resources:</p>
+<ul>
+<li>Read <a href="https://sociologica.unibo.it/article/view/8350/8270">this</a>. It&rsquo;s short, to the point, and by someone who studied Luhmann&rsquo;s process in detail.</li>
+<li>Luhmann wrote an expository <a href="https://luhmann.surge.sh/communicating-with-slip-boxes">paper</a> on his process. Some good nuggets in there.</li>
+<li>I&rsquo;m indebted to Scott Scheper&rsquo;s <a href="https://www.youtube.com/user/scottscheper">YouTube videos</a>. His videos cleared up a lot of misconceptions for me, and I believe he&rsquo;s working on a book on this subject!</li>
+</ul>
+<h2 id="equipment-setup">Equipment setup</h2>
+<p>Ok, you&rsquo;re ready to start an analog Zettlekästen (slipbox). Here&rsquo;s what you need</p>
+<h3 id="1-some-4x6-cards">1. Some 4x6 cards</h3>
+<p>
+  <img src="/img/zettlekasten/IMG_3052.jpg" alt="">
+
+</p>
+<h3 id="2-a-pen-and-a-pencil">2. A Pen and a Pencil</h3>
+<p>I make all of my writing in black ink and use a <code>red</code> ink pen to highlight connections and footnotes. If your perfectionism gets in the way, start with a pencil, then you can always make changes easier as you get the hang of it.</p>
+<h3 id="3-permanent-note-box">3. Permanent note box</h3>
+<p>
+  <img src="/img/zettlekasten/IMG_3053.jpg" alt="">
+
+
+I acquired this handsome box <a href="https://www.amazon.com/dp/B0037852VY?ref=ppx_yo2_dt_b_product_details&amp;th=1">here</a> but you could easily put one together. You just want something that allows your cards to standup so you can easily rifle through them.</p>
+<p>With your notes in a dedicated box, you won&rsquo;t have to worry about them getting mixed up on your desk, lost, etc.</p>
+<h3 id="4-bibliography-index-box">4. Bibliography index box</h3>
+<p>
+  <img src="/img/zettlekasten/IMG_3038.jpg" alt="">
+
+
+I made mine from a box that just happened to fit 3x5 cards perfectly. Some tape, sticky notes and voila!
+This is a box that holds references to authors. Literature notes live on the backside of the bibliography card (more on that later).</p>
+<h3 id="5-keyword-index-box">5. Keyword index box</h3>
+<p>You might be thinking? What, another box? Do I really need three boxes to take notes? No, you don&rsquo;t <strong>need</strong> it, but as your permanent notes grow, you&rsquo;ll start to notice topic clusters emerging from the bottom up in ways you couldn&rsquo;t have forseen or planned. This index helps keep track, not plan for, topics related to keywords as they arise.</p>
+<p>For example, if I see my new card is related to communication, I&rsquo;d head to the &lsquo;C&rsquo; tab in my keyword index and look for &lsquo;Communication&rsquo;. If it wasn&rsquo;t there, I can add it (more on that below).
+Here&rsquo;s my keyword index box:</p>
+<p>
+  <img src="/img/zettlekasten/IMG_3044.jpg" alt="back">
+
+</p>
+<p>Example keyword index card:
+
+  <img src="/img/zettlekasten/IMG_3045.jpg" alt="back">
+
+</p>
+<h3 id="6-fleeting-notes">6. Fleeting notes</h3>
+<p>One extra piece that Sönke Ahrens recommends is a little notebook to capture what he calls &ldquo;Fleeting Notes&rdquo;. This is not part of Luhmann&rsquo;s original system or practice. However it&rsquo;s served me well. I carry it around in my backpocket and when I get an idea I write them down. As Ahrens describes in his book, these notes are &lsquo;fleeting&rsquo; (i.e. if you lost it, it wouldn&rsquo;t be a big deal); as you collect ideas in there, sit down and transfer ones you like to your Permanent Notes (the 4x6 cards).</p>
+<p>Here&rsquo;s a picture of what I use for fleeting notes:
+
+  <img src="/img/zettlekasten/IMG_3051.jpg" alt="">
+
+</p>
+<p>So far this covers the &ldquo;technology&rdquo; required for an analog Zettlekästen. All that&rsquo;s left is you, your mind, and stuff to read and think about. Now let&rsquo;s talk process.</p>
+<hr>
+<h2 id="process">Process</h2>
+<p>High-level process: <code>Read -&gt; Think -&gt;  Write Zettle -&gt; File Zettle</code></p>
+<p>With all these boxes and rules, it&rsquo;s intimidating to start, at least it was for me. I struggle with perfectionism (that darn fixed mindset again!) and I didn&rsquo;t want to build a pile of notes only to realize I did something horribly wrong. Honestly, as great as Ahrens' book is, it didn&rsquo;t give me a lot to go on for implementing (which is kinda misleading for a book entitled &ldquo;<em>How to</em> Take Smart Notes&rdquo;. A more honest title would be &ldquo;Why you should take smart notes&rdquo;, but I digress) and I did eventually run into problems. I got about 60 cards in and had done my bibliographies wrong (on the backs of each zettle) and a clunky indexing system based on alternating numbers and letters. It was a painful lesson, one that took time and effort to fix but I&rsquo;m glad I did it right. That&rsquo;s why I&rsquo;m writing this for all the other perfectionists out there who want to try this.</p>
+<p>So let&rsquo;s break it down further!</p>
+<h3 id="1-start-with-reading">1. Start with Reading</h3>
+<p>As a member of <a href="https://onlinegreatbooks.com/">The Online Great Books</a> I&rsquo;m always reading. Right now I&rsquo;m reading <em>The Odyssey</em> by Homer. For purposes of groking the process, let&rsquo;s pretend I just started.</p>
+<h3 id="2-create-a-bibliography-index-card">2. Create a Bibliography index card</h3>
+<p>This part was very confusing for me initially. Ahrens talks about the relationship between Literature Notes and the Bibilography card on page 44:</p>
+<blockquote>
+<p>&ldquo;All [Luhmann] did was take brief notes about the ideas that caught his attention in a text on a separate piece of paper:</p>
+<blockquote>
+<p>&ldquo;I make a note with the bibliographic details. On the backside I would write &lsquo;on page x is this, on page y that&rsquo;, and then it goes inot the bibliographic slip-box where I collect everything I read&rdquo;</p>
+</blockquote>
+</blockquote>
+<p>Here&rsquo;s how I do it: First step is to make my bibliography card. One book &ndash;&gt; one bibliography index card.
+On the front, I have the author’s last name in a box in the upper right hand. I only do this to make it easy to see.
+
+  <img src="/img/zettlekasten/IMG_3054.jpg" alt="">
+
+
+Then, while I&rsquo;m doing my weekly reading, I keep the note in the book and jot down the page number and ideas on the backside of the card as they come to me. According to Ahrens:</p>
+<blockquote>
+<p>“Keep it very short, be extremely selective, and use your own words”</p>
+</blockquote>
+<p>
+  <img src="/img/zettlekasten/IMG_3055.jpg" alt="">
+
+</p>
+<p>Keep in mind, it won&rsquo;t always be books that spark thought! I get a lot of thoughts from the <a href="https://onlinegreatbooks.com/onlinegreatbooks-podcast/">podcasts</a>, YouTube videos, etc., so instead of page numbers, you could do minutes into an episode or video. It&rsquo;s flexible.</p>
+<p>Cool! So far we&rsquo;ve got our literature notes going for this book.</p>
+<h3 id="3-zettle-time">3. Zettle time!</h3>
+<p>Later that day, maybe after dinner, I&rsquo;ll look over these literature notes (written on the back of your bibliography card) and develop them into permanent notes that live in my main slipbox.</p>
+<p>For example, my first note on page 78 about how Zeus haranguing the other gods about how silly we are in blaming them for all our misfortunes. I&rsquo;ll zettle it. I pulled out a blank 4x6 card, and started writing.</p>
+<p>I&rsquo;ll worry about the index and title later, after I get the idea fleshed out. While (and only while, not before hand, which is so cool!) I was writing this I thought of Job, so I added that. I also recalled Achilles' point of view about Zeus from The Iliad, so I added that also.</p>
+<p>
+  <img src="/img/zettlekasten/IMG_3056.jpg" alt="">
+
+</p>
+<p>I mark in <code>red</code> pen my footnotes to the texts, then at the bottom left, I reference to my bibliography card. You&rsquo;ll notice the first one links to <em>The Odyssey</em>, and that&rsquo;s why there&rsquo;s that &lsquo;T.O.&rsquo;. It&rsquo;s a shortcode for the title, so I don&rsquo;t have to write it all out each time. I then give the page number of the book.</p>
+<p>Next I&rsquo;ll give the card a short title at the top, write the date (I just like to), and then I have to decide where it goes in my main box (the black one). I&rsquo;ll file it right behind my other Homer zettles/card, making it <code>5/2</code> (right behind <code>5/1</code>; I&rsquo;ll talk more about indexing in a bit). Great! I&rsquo;ve got a new permanent note that will live amongst my other thoughts in the main box.</p>
+<h3 id="4-give-it-an-index">4. Give it an index</h3>
+<p>Figuring out the indexing scheme was and still is a challenge for me at times, I won&rsquo;t lie. It wasn&rsquo;t explained well enough for me in Ahrens book but I did find a helpful breakdown from an aforementioned <a href="https://sociologica.unibo.it/article/view/8350/8270">resource</a>. I recommend reading it if you&rsquo;re seriously considering doing an analog Zettlekästen.</p>
+<p>
+  <img src="/img/zettlekasten/indexing_patterns.png" alt="">
+
+</p>
+<p>Just a couple more things to consider before we&rsquo;re done with this one:</p>
+<h3 id="5-linking">5. Linking</h3>
+<ol>
+<li><strong>Intra-card Linking</strong>
+Does this card have ideas that link to other places in my box? I look around at my cards and see a card that talks about suffering and how it can make or break us (card <code>7/3b1</code>). I think there&rsquo;s a connection there, especially how Odysseus bears his sufferings, going through challenges refines the morals within or shows the lack thereof. I want to mark this connection by noting the link(s) in <code>red</code> at the bottom right:</li>
+</ol>
+<p>
+  <img src="/img/zettlekasten/IMG_3057.jpg" alt="">
+
+
+I&rsquo;ll also go to card <code>7/3b1</code> and reflect back the link to <code>5/2</code>. This is how the network of the external brain starts to grow!</p>
+<ol start="2">
+<li><strong>Linking to Bibliography index</strong>
+Now I&rsquo;ll go back to my <em>The Odyssey</em> card for Homer and let it know there&rsquo;s a zettle out there at <code>5/2</code>. There are a few ways you could do this. You could link back each zettle next to the literature note, which is a great idea. Or you could only write down the most important zettle indicies on your bibliography card to save space. Either way, each zettle will have a reference to this bibilography note. Try out each and see how it goes!</li>
+</ol>
+<p>
+  <img src="/img/zettlekasten/IMG_3060.jpg" alt="">
+
+</p>
+<p>Use that pencil if you&rsquo;re worried about making mistakes, but don&rsquo;t let imperfection slow you down. Luhmann&rsquo;s system was described by scholars as &ldquo;rough&rdquo;, not fluid, not rigid, but enough structure to unlock enormous thinking and writing power. There are mistakes and inconsistencies in his Zettlekästen as it evolved over time, and yours and mine will too. But at the end of the day, this is your baby, no one elses. Just a quick plug there.</p>
+<ol start="3">
+<li><strong>Keyword index linking</strong>
+Do you remember that blue-ish box with the clear top? That&rsquo;s my keyword or topic index. Like my bibilography box, it&rsquo;s also arranged in alphabetical order to make it easier to find things, only this time it&rsquo;s not authors but ideas. I&rsquo;d say don&rsquo;t stress doing this step until you get comfortable with the basic zettling process and have done a few dozen cards. Once you start to see topics emerging, then go ahead and enter some in.</li>
+</ol>
+<p>This card, <code>5/2</code> deals with suffering. It also deals with potentially many other subjects but I&rsquo;ll only do what&rsquo;s easy: if I can&rsquo;t think of anything else off the top of my head I&rsquo;ll just do what comes to mind. I&rsquo;ll file it under &ldquo;S&rdquo; &gt; &ldquo;Suffering. Here&rsquo;s what the card looked like before I entered it in:</p>
+<p>
+  <img src="/img/zettlekasten/IMG_3058.jpg" alt="">
+
+
+Now I&rsquo;ll just add the index of my latest card about suffering (the one about Odysseus, <code>5/2</code>)</p>
+<p>
+  <img src="/img/zettlekasten/IMG_3059.jpg" alt="">
+
+</p>
+<p>And that, my friends, is basically it. If the thought came from a fleeting note, I&rsquo;d skip the bibilography stuff and just go straight to the zettling, indexing, and keyword indexing (if applicable for that card). But that&rsquo;s it. It&rsquo;s so much fun.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>What about the rest of the space on the front of the bibliography? What&rsquo;s up with different color cards?  There are some more things I could talk about, but this post is loooong and already probably information overload. I hope this is helpful. I know it might seem arbitrary, but I know this system works. It has changed my life, just ask me about it sometime. That said, if you don&rsquo;t like the way I show something here, feel free to try it out with your own flair. I&rsquo;d love to see how you implement it.</p>
+<p>If you have questions or would like more posts on this, feel free to contact me at my contact info. Thank you!</p>
+<p>Credits:</p>
+<ul>
+<li>A big thanks to my friend <a href="https://calder-ty.com/">Tyler</a> for the feedback and help on the Literature notes section</li>
+<li>A big thanks to <a href="https://www.youtube.com/user/scottscheper">Scott Scheper</a> and his work to make things clearer for me</li>
+</ul>
+
+
+                
+
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/post/questions/" data-toggle="tooltip" data-placement="top" title="Questions to be lived">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                    <li class="next">
+                        <a href="/post/relative/" data-toggle="tooltip" data-placement="top" title="Is that True?">Next
+                            Post &rarr;</a>
+                    </li>
+                    
+                </ul>
+                
+
+            </div>
+
+            
+            
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
+            
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+
+                
+                
+                <section>
+                    <hr>
+                    <h5>FRIENDS</h5>
+                    <ul class="list-inline">
+                        
+                        <li><a target="_blank" href="https://calder-ty.com">Tyler</a></li>
+                        
+                    </ul>
+                </section>
+                
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                   
+                   <li>
+                       <a href='' rel="alternate" type="application/rss+xml" title="Nathan Cheever" >
+                           <span class="fa-stack fa-lg">
+                               <i class="fas fa-circle fa-stack-2x"></i>
+                               <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                           </span>
+                       </a>
+                   </li>
+                   
+                    
+                    <li>
+                        <a href="mailto:nathan.cheever12@gmail.com">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		    
+
+                    
+                    <li>
+                        <a href="https://twitter.com/think_vertical">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    
+
+                    
+
+		    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+                </ul>
+		<p class="copyright text-muted">
+                    Copyright &copy; Nathan Cheever 2022
+                    <br>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script>
+    function loadAsync(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+
+
+
+
+<script>
+    
+    if($('#tag_cloud').length !== 0){
+        loadAsync("/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+
+<script>
+    loadAsync("https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+
+
+
+
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?idi=G-FQNVRR43SG";></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', "G-FQNVRR43SG");
+	</script>
+
+
+
+
+
+<script type="text/javascript">
+    function generateCatalog(selector) {
+
+        
+        
+        
+        
+            _containerSelector = 'div.post-container'
+        
+
+        
+        var P = $(_containerSelector), a, n, t, l, i, c;
+        a = P.find('h1,h2,h3,h4,h5,h6');
+
+        
+        $(selector).html('')
+
+        
+        a.each(function () {
+            n = $(this).prop('tagName').toLowerCase();
+            i = "#" + $(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="' + i + '" rel="nofollow">' + t + '</a>');
+            l = $('<li class="' + n + '_nav"></li>').append(c);
+            $(selector).append(l);
+        });
+        return true;
+    }
+
+    generateCatalog(".catalog-body");
+
+    
+    $(".catalog-toggle").click((function (e) {
+        e.preventDefault();
+        $('.side-catalog').toggleClass("fold")
+    }))
+
+    
+
+
+    loadAsync("\/js\/jquery.nav.js", function () {
+        $('.catalog-body').onePageNav({
+            currentClass: "active",
+            changeHash: !1,
+            easing: "swing",
+            filter: "",
+            scrollSpeed: 700,
+            scrollOffset: 0,
+            scrollThreshold: .2,
+            begin: null,
+            end: null,
+            scrollChange: null,
+            padding: 80
+        });
+    });
+</script>
+
+
+</body>
+</html>

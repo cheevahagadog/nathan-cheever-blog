@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Nathan Cheever</title>
+    <link>https://www.nathancheever.com/tags/writing/</link>
+    <description>Recent content in writing on Nathan Cheever</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to get up and running with an analog Zettlekästen (slipbox)</title>
+      <link>https://www.nathancheever.com/post/zettlekasten/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nathancheever.com/post/zettlekasten/</guid>
+      <description>Preface There is a veritable plethora of videos and articles on how to setup a digital Zettlekästen. There are tons of blogs and forums about Niklas Luhmann&amp;rsquo;s practice, his prolific publishing record.
+So why add another one? Frankly most of them aren&amp;rsquo;t that helpful. I learn by seeing how something is actually done, especially an analog process. And more importantly, I want it to be true to the process Luhmann discovered.</description>
+    </item>
+    
+  </channel>
+</rss>

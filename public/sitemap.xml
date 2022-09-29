@@ -2,64 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nathancheever.com/categories/</loc>
+    <loc>https://www.nathancheever.com/categories/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/mental_models_1/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/categories/longer/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/mental-models/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/</loc>
+    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/philosophy/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/stoicism_lite/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/why_write/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/classics_are_good_for_your_health/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/categories/shorter/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/cheer_rd/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/rough-hewn/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/appropriation/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/can_science_answer_moral_questions/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/morality/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/relative/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/objectivity/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/zettlekasten/</loc>
+    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/writing/</loc>
+    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/zettlekasten/</loc>
+    <lastmod>2022-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/questions/</loc>
     <lastmod>2021-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nathancheever.com/post/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nathancheever.com/post/questions/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nathancheever.com/categories/shorter/</loc>
-    <lastmod>2021-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nathancheever.com/post/goodday/</loc>
+    <loc>https://www.nathancheever.com/post/call_the_bluff/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/tags/life-lessons/</loc>
+    <loc>https://www.nathancheever.com/post/goodday/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/tags/ordinary/</loc>
+    <loc>https://www.nathancheever.com/tags/life-lessons/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/post/rebel/</loc>
+    <loc>https://www.nathancheever.com/tags/ordinary/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/tags/</loc>
+    <loc>https://www.nathancheever.com/post/rebel/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nathancheever.com/search/placeholder/</loc>
+    <loc>https://www.nathancheever.com/search/placeholder/</loc>
   </url><url>
-    <loc>https://nathancheever.com/top/about/</loc>
+    <loc>https://www.nathancheever.com/top/about/</loc>
   </url><url>
-    <loc>https://nathancheever.com/top/books/</loc>
+    <loc>https://www.nathancheever.com/top/books/</loc>
   </url><url>
-    <loc>https://nathancheever.com/tags/atomic-essay/</loc>
+    <loc>https://www.nathancheever.com/tags/communication/</loc>
   </url><url>
-    <loc>https://nathancheever.com/tags/communication/</loc>
+    <loc>https://www.nathancheever.com/post/moderation/</loc>
   </url><url>
-    <loc>https://nathancheever.com/tags/friendship/</loc>
+    <loc>https://www.nathancheever.com/tags/plato/</loc>
   </url><url>
-    <loc>https://nathancheever.com/categories/longer/</loc>
+    <loc>https://www.nathancheever.com/post/plato/</loc>
   </url><url>
-    <loc>https://nathancheever.com/post/moderation/</loc>
+    <loc>https://www.nathancheever.com/post/political_correctness/</loc>
   </url><url>
-    <loc>https://nathancheever.com/tags/plato/</loc>
+    <loc>https://www.nathancheever.com/top/archive/</loc>
   </url><url>
-    <loc>https://nathancheever.com/post/plato/</loc>
+    <loc>https://www.nathancheever.com/search/</loc>
   </url><url>
-    <loc>https://nathancheever.com/top/archive/</loc>
+    <loc>https://www.nathancheever.com/post/talk/</loc>
   </url><url>
-    <loc>https://nathancheever.com/search/</loc>
+    <loc>https://www.nathancheever.com/post/relationist/</loc>
   </url><url>
-    <loc>https://nathancheever.com/post/talk/</loc>
-  </url><url>
-    <loc>https://nathancheever.com/post/relationist/</loc>
-  </url><url>
-    <loc>https://nathancheever.com/top/</loc>
+    <loc>https://www.nathancheever.com/top/</loc>
   </url>
 </urlset>
