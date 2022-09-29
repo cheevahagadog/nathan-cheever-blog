@@ -70,7 +70,7 @@ These two shortcomings of topographic models lead us to another model of navigat
 
 Orienteering is another way to navigate. The difference is that in orienteering you use universally applicable rules to find your position, rather than relative features.
 
-Think of a compass. It works no matter where you go, regardless of the unique circumstances of any area or domain you're in.
+Think of a compass. It works no matter where you go, regardless of the unique circumstances of any area or domain you're in.[^2]
 
 With orienteering, you don't have to learn the details of everywhere you go to move around with confidence. Knowing universal rules like cardinal directions, the north star, and how the position of the sun during the day aligns with them, frees you from the dependence on topographic thinking alone.
 
@@ -111,3 +111,5 @@ If you liked this essay and want to get informed when I write a new one plus oth
 
 
 [^1]:	Temme, David H. _Life Is Loopy: Principles of Biology : Biology 1210, Fall Semester 2009, University of Utah_. Dubuque, Iowa: Kendall/Hunt Pub. Co., 2009., 10-11
+
+[^2]: Setting aside the extremes, like issues of polar vs magnetic North, and when you reach the point when a compass no longer points anywhere in particular. But trying not be too pedantic, the principle still useful.
