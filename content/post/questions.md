@@ -6,7 +6,7 @@ subtitle: "What question will you answer with your life?"
 author:  "Nathan Cheever"
 date:   "2021-01-06"
 image:  "/img/floating_leaf.jpg"
-categories: [Shorter]
+categories: [Writing]
 ---
 Not often, but sometimes, you stumble upon a question that is so profound to you that you would almost be sad to find the answer. It keeps you searching yourself, calling upon something deeper than rote learning or textbook memorization. 
 

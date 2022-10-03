@@ -9,7 +9,7 @@ image: "/img/man_in_darkness.jpg"
 published: true
 tags: [philosophy, objectivity]
 
-categories: [Shorter]
+categories: [Writing]
 
 ---
 > _"It's all relative"_.

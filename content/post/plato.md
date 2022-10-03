@@ -6,7 +6,7 @@ subtitle: ""
 author: "Nathan Cheever"
 image: "/img/plato.jpg"
 tags: [ Plato, ordinary]
-categories: [Longer]
+categories: [Writing]
 ---
 
 Almost 2400 years ago, one of the greatest revolutions the western world has ever known set off.

@@ -8,7 +8,7 @@ date: 2022-06-15
 published: false
 tags: [leadership]
 
-categories: [Shorter]
+categories: [Writing]
 
 ---
 

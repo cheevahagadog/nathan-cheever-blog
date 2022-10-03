@@ -11,7 +11,7 @@ image: "/img/karolis-milisauskas-GqQvtUA3dvw-unsplash.jpg"
 
 tags: [life lessons]
 
-categories: [ Shorter ]
+categories: [Writing]
 
 ---
 

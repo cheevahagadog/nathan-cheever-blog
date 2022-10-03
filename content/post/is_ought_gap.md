@@ -8,7 +8,7 @@ date: 2022-02-05
 published: false
 tags: [philosophy]
 
-categories: [ Shorter ]
+categories: [Writing]
 ---
 
 David Hume was pretty anti-causation. He didn't like people jumping from an observation about how things are to making statements about how they should be.

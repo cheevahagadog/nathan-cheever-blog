@@ -7,7 +7,7 @@ date: "2022-06-13"
 author: "Nathan Cheever"
 description: "Over the weekend I bought a fanny-pack, an analog planner, and a bunch of notecards. It felt weird, but refreshingly analog. That's how much of a degenerate I am."
 
-categories: [ Shorter ]
+categories: [Writing]
 ---
 
 Technology offers an interesting set of verbs almost daily: "Upgrade", "Sign in", "Create Account", "Buy", "Activate", and "Download" to name a few off the top of my head.

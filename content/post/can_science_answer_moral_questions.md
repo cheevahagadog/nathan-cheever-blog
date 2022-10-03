@@ -6,7 +6,7 @@ author:  "Nathan Cheever"
 date: 2022-05-24
 tags: [philosophy, morality]
 
-categories: [ Longer]
+categories: [Writing]
 ---
 
 Sam Harris debunked traditional morality in favor of science in a 2010 TED talk entitled “[Science can answer moral questions](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions)”.

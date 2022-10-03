@@ -9,7 +9,7 @@ date: 2022-04-18
 published: false
 tags: [philosophy, pain]
 
-categories: [Longer]
+categories: [Writing]
 
 ---
 Brain dump

@@ -1,5 +1,4 @@
-
-
+## Welcome!
 
 There I was, a programmer and data scientist, who, though I enjoyed code and working with data (and making money) had repressed a passion for reading and learning about history and philosophy for over a decade.
 

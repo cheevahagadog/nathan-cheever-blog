@@ -8,7 +8,7 @@ date: 2022-03-05
 published: false
 tags: [philosophy]
 
-categories: [ Shorter ]
+categories: [Writing]
 ---
 
 We are primarily believing creatures. Based on our beliefs, our presuppositions and values, we act. Action is no guarrantee for sensible action just as belief is no guarrantee for rational belief, but our beliefs always come first.

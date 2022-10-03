@@ -9,7 +9,7 @@ date: 2022-03-22
 published: false
 tags: [wisdom]
 
-categories: [Longer]
+categories: [Writing]
 
 ---
 

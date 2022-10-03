@@ -6,7 +6,7 @@ subtitle: "You really should"
 date: "2021-01-05"
 tags: [ ordinary]
 
-categories: [ Shorter ]
+categories: [Writing]
 ---
 
 

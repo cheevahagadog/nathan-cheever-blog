@@ -7,7 +7,7 @@ author:  "Nathan Cheever"
 
 tags: [communication]
 
-categories: [ Shorter ]
+categories: [Writing]
 ---
 
 As an introvert, small talk has never come easy for me. I enjoy watching the occasional football or basketball game. Still, I can't talk at length about the recent trades or injuries. 

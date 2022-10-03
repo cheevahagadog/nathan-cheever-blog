@@ -7,7 +7,7 @@ image: "/img/dc28043fb7e19052b5f8facb674e04af.png"
 tags: [mental models]
 published: true
 date: 2022-09-15
-categories: [Longer]
+categories: [Writing]
 ---
 
 ### Introduction

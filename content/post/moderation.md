@@ -8,7 +8,7 @@ author:  "Nathan Cheever"
 
 tags: [life lessons]
 
-categories: [ Shorter ]
+categories: [Writing]
 
 ---
 There are special times in life to go all out. 

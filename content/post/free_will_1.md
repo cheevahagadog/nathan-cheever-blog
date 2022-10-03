@@ -9,7 +9,7 @@ image: "/img/sunder-muthukumaran-d7SxBxEAOfU-unsplash.jpg"
 published: false
 tags: [philosophy, free will]
 
-categories: [Longer]
+categories: [Writing]
 
 ---
 

@@ -10,7 +10,7 @@ date: 2022-02-04
 published: true
 tags: [writing, zettlekasten]
 
-categories: [Longer]
+categories: [Writing]
 
 ---
 
