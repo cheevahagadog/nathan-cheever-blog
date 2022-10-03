@@ -47,7 +47,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   friends = true
   bookmarks = false
-  about_me = true
+  about_me = false
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
@@ -96,8 +96,8 @@ home = ["HTML", "RSS", "Algolia"]
 #  [[params.addtional_menus]]
 #  title =  "ARCHIVE"
 #  href =  "/top/archive/"
-  title =  "ABOUT"
-  href =  "/top/about/"
+#  title =  "ABOUT"
+#  href =  "/top/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
