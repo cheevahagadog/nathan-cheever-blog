@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nathan Cheever</title>
-    <link>https://www.nathancheever.com/</link>
-    <description>Recent content on Nathan Cheever</description>
+    <title>Writing on Nathan Cheever</title>
+    <link>https://www.nathancheever.com/categories/writing/</link>
+    <description>Recent content in Writing on Nathan Cheever</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How The Mental Models of Orienteering and Topographic Thinking Can Help Us Understand The World</title>
       <link>https://www.nathancheever.com/post/mental_models_1/</link>
@@ -92,34 +92,6 @@ Being ordinary is shamed as not hustling hard enough.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.nathancheever.com/search/placeholder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/search/placeholder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.nathancheever.com/top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/top/about/</guid>
-      <description>Welcome! There I was, a programmer and data scientist, who, though I enjoyed code and working with data (and making money) had repressed a passion for reading and learning about history and philosophy for over a decade.
-I just landed my first data science job and bought a home. Friends and family told me &amp;ldquo;you&amp;rsquo;ve made it&amp;rdquo; but I still felt an intellectual hunger inside I couldn&amp;rsquo;t quite place at the time.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.nathancheever.com/top/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/top/books/</guid>
-      <description>My Top Books How To Read a Book by Mortimer J. Adler and Charles Van Doren. The Second Mountain: The Quest for a Moral Life by David Brooks The Abolition of Man by C.S. Lewis The Abolition of Man changed my life. After searching for years for solid ground for truth, I finally have a footing thanks to this small book. Lewis shows that there IS objective value; that there is truth and our humanity is bound up with understanding that body of truth which he refers to as the &amp;lsquo;Tao&amp;rsquo;.</description>
-    </item>
-    
-    <item>
       <title>Moderation in moderation</title>
       <link>https://www.nathancheever.com/post/moderation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,15 +111,6 @@ I learned some invaluable lessons like
       <guid>https://www.nathancheever.com/post/plato/</guid>
       <description>Almost 2400 years ago, one of the greatest revolutions the western world has ever known set off.
 It was a relatively quiet explosion, not a famous battle or the overthrow of an empire. It was a young man watching his hero, teacher, and mentor put on trial and condemned to death. His teacher had dedicated his life to questioning others, for, as he put it, &amp;ldquo;the unexamined life is not worth living.</description>
-    </item>
-    
-    <item>
-      <title>Posts Archive</title>
-      <link>https://www.nathancheever.com/top/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/top/archive/</guid>
-      <description></description>
     </item>
     
     <item>
