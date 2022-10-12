@@ -25,14 +25,6 @@ home = ["HTML", "RSS", "Algolia"]
 
   # leancloud storage for page view counter
   page_view_conter = false 
-  leancloud_app_id = ""
-  leancloud_app_key = ""
-
-  # algolia site search
-  algolia_search = false
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
 
   # Sidebar settings
   sidebar_about_description = "Sharing ideas I'm working on"
@@ -40,10 +32,6 @@ home = ["HTML", "RSS", "Algolia"]
 
   featured_tags = false 
   featured_condition_size = 1 
-
-  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = false 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = true
   bookmarks = false
@@ -58,7 +46,7 @@ home = ["HTML", "RSS", "Algolia"]
   email          = "nathan.cheever12@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  twitter       = "https://twitter.com/think_vertical"
+  twitter       = "https://twitter.com/data_cheeves"
   #linkedin       = "https://www.linkedin.com/in/nathancheever"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
@@ -93,11 +81,12 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "Podcast"
   href =  "/top/podcast/"
-#  [[params.addtional_menus]]
-#  title =  "ARCHIVE"
-#  href =  "/top/archive/"
-#  title =  "ABOUT"
-#  href =  "/top/about/"
+  [[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/top/archive/"
+  #[[params.addtional_menus]]
+  #title =  "ABOUT"
+  #href =  "/top/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
