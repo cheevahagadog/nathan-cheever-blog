@@ -1,6 +1,7 @@
 ---
 layout:  post
-title: "What is Behind Political Correctness?"
+title: "Compulsion Without a Core"
+subtitle: "A look at what’s behind Political Correctness"
 author:  "Nathan Cheever"
 date: 2022-10-21
 published: true
@@ -136,8 +137,6 @@ We should be _sensitive_ to well-meaning yet misguided value systems that are me
 It's a choice between shouting down and dialogue; between protest and persuasion; and ultimately between force and reason. I believe our only hope of healing is not slogans or suppression but the ability to think, speak, and deliver the fatal questions that confound ignorant and harmful speech. Anyone can shout at someone but who can dismantle a diatribe?
 
 And in the process, will we step on toes? Naturally! But we're trying to do good, not just avoid sin.[^14] Our aim in life should be more than to be a soft bubble that offends no one. That is no life at all but to be a marshmallow: pale, malleable, and easy to roast. 
-
-
 
 
 ### Conclusion
