@@ -1,101 +1,173 @@
 ---
 layout:  post
-title: "Political Correctness and Respect"
-subtitle: "What is political correctness?"
+title: "What is Behind Political Correctness?"
 author:  "Nathan Cheever"
-published: false
-tags: [life lessons]
-
+date: 2022-10-21
+published: true
 categories: [Writing]
 ---
 
-Have you ever 
+> “Peace cannot be kept by force; it can only be achieved by understanding.”[^11]
 
-Political correctness (PC) is sometimes seen as progress towards justice for groups of people not treated fairly. For others, a nuisance that inhibits free thought and speech and, taken too far, leads to a loss of personal liberty.
+### The Allure of Correctness
 
-Struggles between equality and liberty are not new. Yet the place of PC and its worthiness as a morality have increasingly been in question.
+My senior year of high school I fell perhaps too much in love with English. I gained a bit of a reputation as a grammar Nazi. I took a sort of pleasure in catching people when they dangled prepositions, failed on their subject-verb agreements, and said _who_ when they should have said _whom_. Other kids were playing Halo while I was exulting over alliterations.
 
-So it's worth a look at just what PC is: progress or decline?
+This sifting of speech rather than listening to it probably cost me some friends. It's still a temptation but I've mostly stopped. I just say it inside. I eventually learned that people are more than their grammar.
 
-### Just what is it?
-The definition of PC reads:
-> "the avoidance, often considered as taken to extremes, of forms of expression or action that are perceived to exclude, marginalize, or insult groups of people who are socially disadvantaged or discriminated against."[^1]
+Yet correctness holds an allure because it points to something – some external fact, standard, or truth. And purists like me get so caught up in our admiration for the truths that we can be quite annoying to live with.
 
-I asked a friend who himself is diligent in his PC. He told me that PC is all about being sensitive to others' experience and the negative associations of words or phrases that cause them harm.
+I find it's useful to remember that **correctness doesn't exist on its own**. It's referential. We can look _at_ the correctness of a Storm Trooper in executing orders with exactness. But we can also look _along_ correctness to see the nature of the standard that demands such compliance. He may have followed orders perfectly, but what evil orders!
 
-I then asked him how PC is manifest or practiced in his life. He told me, by abstaining from speech, shopping at places that are incorrect, etc.
+###  What is Political Correctness?
+In this vein of thought, I've been wondering about Political Correctness. What does it mean for an individual to be politically correct? To what standard or truth are they complying? And why are they doing it?
 
-### An obvious but necessary question: _Why care?_
-The question for me is, _why_ should I care? I ask this sincerely, not in a flippant manner, because I want to know _why_. I want to know the grounds PC invokes for calling on everyone to care about the mistreatment of groups of people. It's a good question, and if PC has good grounds, then I'll sign up.
+While its basis escapes me its presence does not. A quick Google search provides some ideas of what the _compliance_ looks like:
 
-I can imagine a few reasons offered as to why I should be politically correct. One is "PC is basically a way of treating ". Perhaps we were raised to respect others, but that principle was too provincial in its teaching, and we didn't learn that that rule extended to minorities. PC is the needed upgrade of general respect, patching over missed categories. It is respect at scale.
+> "The avoidance, often considered as taken to extremes, of forms of expression or action that are perceived to exclude, marginalize, or insult groups of people who are socially disadvantaged or discriminated against."[^1]
 
-**However PC is not equal to respect. Here's why.**
+This compliance has and is gaining traction across society. From elementary schools to HR trainings to news and movies, there seems to be an accepted _way_ to talk. 
 
-The word "correctness" means conformity to a standard, truth, or fact. Therefore, to be politically correct, you must conform to negative action in the name of justice, fairness, and/or equality as a reaction to recent historical events of mistreatment.
+And it's not like I used to be: catching people up for forgetting to say whom instead of who, or miscalculating 7 x 7 for 42. Such inaccuracies carry no moral weight.
+But being called out for political incorrectness sure feels like censure.
 
-Respect beckons you to value a _person_ as special. They are an end in-and-of themselves. Respect is unaware of categories. It is also less reactive to historical events. 
+I have no confusion about the dignity of life, or the need for understanding and respect. But I don't understand what the standard, truth, or fact is behind this movement. Is Political Correctness just deference to political law? If so incorrectness would be criminal. Every time you get pulled over for speeding on the freeway would be a politically incorrect act. And that doesn't seem right at all.
 
-Why one would treat another with respect comes down to one's view of humanity. 
-Respect comes from how you view a person. PC comes from how you view
+I was at a loss for where to find the manifesto for political correctness.
 
-Respect comes out of a person for another person. You value their quality, their potential, their divine specialness, and you treat them accordingly. Respect for humanity focuses on our shared humanity.
+So I asked my brother-in-law: "What does political correctness mean to you? and how do you practice it?" He being a kind, thoughtful man, and one who practices Political Correctness, explained that it's basically sensitivity. It means to be aware of the plight of marginalized groups of our society. It means considering their perspective, their demands for justice, fairness, and equality.
 
-**PC is a degraded form of respect, in that it wields its power with social pressure rather than moral persuasion.**
+Following my civic duty[^16] to be annoying, but also being seriously interested, I then asked _why should I be sensitive? Why should I care?_
 
-This is not to say that a person who respects another is "politically incorrect". They will not do or say harm, but they'll have a reason why they don't, whereas the PC adherent only knows because he's been told.
+It's not a flippant question. It's one thing to state facts about discrimination and oppression. It's another to say "you _ought_ not think or say those things." This is referred to in philosophy as the 'is-ought gap'. David Hume, the Scottish philosopher who propounded this observation, said that we fall into error when we create a moral value from a state of affairs. It's a sleight of hand to assert that because something _is_ or _has been_ a certain way that it _should or should not_ continue. 
 
-But trying to convince someone to respect another person as a human can be hard. PC is a lot easier. No moral persuasion is involved, only outward compliance. The tongue may be correct to the latest terms but the mind and the heart may remain resentful. It is that level, the moral persuasion level where PC fails the most because it cannot supply reasons outside of itself to justify its moral claims. Respect takes moral persuasion to win over the bad ideas. PC just covers over them. But demanding conformity to a hollow principle does as much good as a bad principle in persuading someone to change their mind.
+That's not to say we can't make moral value statements, it's just that the moral doesn't come from the things themselves. There's a smuggled in morality there, and that's what I'm after; that's what I want to discover. If Political Correctness wants me to care about the mistreatment of groups of people, it needs to explain the moral basis. If PC has good grounds, then I'll sign up.
 
-PC has effective means of informing the public of its rules via writers and broadcasters. In a way, this might be a way of evangelizing the sensitivity towards overlooked and oppressed people. Such might genuinely inform someone who already respects others and now their sympathy and care will go out to them. In this way, PC has notched a victory by informing with information a soul already informed with respect and morality. Yet PC's effectiveness _ presupposes this respect without having a way to teach or explain it.
-Yet PC evangelists are presumptuous in presupposing such respect in their audience to make effective use of the information and at worst,  
+So, what is moral standard or value that cries out for the kind of compliance defined above?
 
-Just as respect is not the same as PC, neither is its opposite. Rude and disrespectful speech is common, even in our music. Yet every time we hear the "F" word we don't find it politically incorrect? Why? Because it is a-categorical, not sensitive to recent events. So while profanity itself can be disrespectful to a person, it doesn't partake in PC unless attached to a category of people.
+####  Sensitivity?
 
-Taking it a step further, what is PC's approach to society at large? Can one be polititcally correct towards society? It seems a conflict in terms. As far as one's morality is informed by PC, they remain illiterate for _why_ sensitivity ought to be shown to the individual (and hence the lack of care for individual rights) and unable to understand how deference _can_ be shown to society or even humanity at large. Once they step off the edge of a category of people and recent offenses, they are without reason and tools for arguing for a concept of morality. PC only has cogency around categories but is mute for the most basic category: human society. Therefore, as is common, one may easily blame the problems of today on "society" and not incur a PC backlash.
+Perhaps we might say that PC is sensitivity to the pain of others and seeks to not inflict more. That's a nice idea, but it needs to reckon with its roots. If speech is incorrect _because_ it causes pain, then the logical opposite says that correct speech is so _because_ it causes pleasure. This reasoning puts us on solid Utilitarian grounds.
 
-The core of PC's morality is sensitivity. PC is therefore essentially consequentialist or utilitarian morality. Actions are wrong because of the pain alledgedly caused. To the extent that PC maintains speech and action as incorrect because of insensitivity to pain, it remains utilitarian. The Utilitarian calculus fixes the rightness or wrongness of actions according to the pain or pleasure caused. Utilitarianism as a moral system is rife with problems. If a majority of white people have "pleasure" in making jokes at a minority's expense, isn't that the most _good_ for the most people? According to Utilitarian logic, yes. 
+This isn't so surprising actually. Utilitarians might be considered the original social justice warriors of the 1800's. They advocated for parliamentary and prison reform, full legal rights for women, and greater government accountability. They saw the suffering caused by ineffective government and law, by outworn social standards, and thought there had to be a more rational way to reduce the suffering.
 
-**This is the great irony of PC: it makes moral judgments without a categorically right or wrong foundation but _applies_ them on a categorical way.** 
+They believed that the right thing to do was whatever yielded the most pleasure for the most people. What could be more fair, impartial and benevolent?
 
-I can only say that in good intentions, PC is a specious and dangerous morality. We've discussed reasons for its speciousness. But it's danger can be seen in the recent years of militantcy. The Cancel culture movement is one main example.
+But this kind of ethical hedonism is vacuously circular. Being more sensitive to the minority's pain could decrease the majority's pleasure, making it the _morally wrong_ thing to do. Furthermore, why should the majority care about the minority's pain as long as the rest of us, the majority, have pleasure? This brings me back to my original question: _why should I care?_
 
-And yet, such a popular morality with these features should be no surprise in our time. It was predicted by Nietzsche, C.S. Lewis, and Alasdair McIntyre, who clearly saw and wrote about what happens when theere is no ipoersonal objective criteria or yardsick that people can use to decide moral questsions. Like traffic moving pass/thru an intersection, without an impartial arbitrator, a stop light system or police man to direct traffic, all of which manifest an agreed upon set of rules, getting through becomes a question of aggression, of power and push.
+#### Progress?
+
+Perhaps we might say that PC is a manifestation of or vehicle for progress. In fact that was the proposition of a 2018 Munk debate: "Be it resolved, what you call political correctness, I call progress."[^13]
+
+Since the idea of progress implies a goal towards which we're moving, we must ask, _progress towards what?_ What is the goal? When all the correction is over, where do we want to be? (And is that the kind of diversity we want?).
+
+I don't mean to sound like a relativist, let me make that clear. I'm not saying that genuine progress hasn't happened or is impossible. I'm like the TSA agent who caught someone smuggling a water bottle (the horror!) in their carry-on bag. Calling Political Correctness 'progress' smuggles in an idea of a goal without defining what that is. Perhaps it's political equality, or perhaps some other thing. But progress towards the edge of a cliff is still progress. We don't progress for progress-sake but to get to a destination, nor are we sensitive for the sake of sensitivity, but to feel something worth feeling.
+
+#### Respect?
+
+If not progress perhaps we might say that PC is just another form of respect or politeness. Is this true? If not, what then is the difference between Political Correctness and respect?
+
+One demands your conformity to thoughts and speech in the name of justice and fairness as a consequence of recent historical events affecting categories of people (ethnicity, race, gender, religion, etc.).
+
+The other beckons you to value a person as special, not because of any category or historical happening, but to see them as an end in and of themselves rather than a political unit or means.
+
+One could argue that the former leads to the latter, but that does not necessarily follow any more than cutting down a forest leads to irrigating a desert. 
+
+Yet, **one can conform outwardly while nurturing disrespectful thoughts**. As long as his tongue complies, his PC treatment is complete! It's like an emissions test on your car. You either pass or fail by what comes out. Never mind the flashing check engine light or the filthy interior.
+
+Furthermore, there are many acts of respect that are not considered politically correct. Helping an old lady across the street, sincerely listening to someone, not farting in public, expressing heartfelt gratitude, apologizing, and venerating elders are a few examples. 
+
+Likewise, there are many disrespectful acts, such as spitting on someone, using profanity, gossiping, lewdness, and farting in public that do not register on our PC meter. Our movie industry is full of disrespectful depictions, yet the outcry is not one of indignation but of laughter.
+
+However, once the rudeness jumps from an individual to a group or category of people, we're up in arms. But even then there are nuances. If I quote a line from a movie with a funny British accent, people tend to laugh. I'm of English descent, and my ancestors were slaves at one point. But it's so far back in history that the, dare I say, _sensitivity_ has long faded from feeling to fact.
+
+Now if I do the same quote but with an Indian or Chinese accent, I'm on thin ice. People muffle their laughter and look around to make sure Pat from HR didn't overhear. The fear sets in. And hence the PC's emphasis not only on categories, but those who have been dispossessed of power or the brunt of jokes recently in history.
+
+Such fear-motivated compulsion is not respect. Compliance is not conversion and pressure to submit to an arbitrary standard seldom sows seeds of solidarity. 
+
+#### Love of humanity?
+
+Perhaps we might comfort ourselves that PC is another way of caring about humanity or society in general. But it seems impossible. 
+
+It's not uncommon to hear someone blame the evils of the time on society. Yet, other than maybe someone pointing out their overgeneralization, nobody could call this politically incorrect.
+
+Embittered by the caprices of human nature, the misanthrope or sociopath points the finger of blame at everyone else but himself. But he incurs more contempt than a backlash. If such antagonism towards humanity is not politically incorrect, how could political correctness be its opposite?
+
+Humanity or society as a whole is too vague, too abstract a concept for PC to address. Perhaps one could believe that by practicing PC, it might make society at large a better place, and perhaps it might. Perhaps positive decent actions might too. But PC is bounded by its inability to ascribe a value to a single person, let alone all humanity. It only knows categories.
+
+#### Tolerance?
+Perhaps we might say that PC is another way of demanding more tolerance. In this, I think we're probably getting closer to the truth.
+
+It is a sad fact that there is intolerance. But does demanding something make it so? What does it take to make an intolerant person become tolerant? 
+
+Tolerance is a good means but a bad end. If PC is a quest for more tolerance, what mesh of morals will restrain it from becoming intolerant in it's zeal? Karl Popper said it better: 
+
+> "_Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them_."[^9]
+
+Tolerance runs wild when taken as it's own rule. Tolerance cannot fight intolerance by becoming intolerant, for then it is no longer a virtue, but the vice it set out to destroy. 
+
+But neither ought we be indifferent or passive towards intolerance. Victor Hugo, in a parenthesis on what conditions we can respect the past, illustrates the need for action and for balance:
+
+> _"Let us attack, but let us distinguish. The characteristic of truth is never to run to excess. What need has she of exaggeration? Some things must be destroyed, and some things must be merely cleared up and investigated. What power there is in courteous and serious examination! Let us not carry flame where light alone will suffice."_[^8]
+
+### Militant PC
+
+Political Correctness within the last couple of years has transformed into _correction_, or enforcing compliance through what has become known as "cancel culture". Cancel culture is different than getting chided. It usually involves removal from a social media platform, getting fired from a job, or forced to recant, apologize and shut down. It is an effective way to punish non-compliant speech by withdrawing official or economic support and/or social shaming. 
+
+So Why are people canceling others? From care and compassion for others’ pain? For a burning desire to respect others? No, because of social pressure and fear of being called out. It's a leveling process, where, as Stephen Fry put so well at the end of the Munk debate:
+
+> _"The liberals are illiberal in their demand for liberality.  They are exclusive in their demand for inclusivity. They are homogeneous in their demand for heterogeneity. They are somehow un-diverse in their call for diversity. You can be diverse but not diverse in your opinions and in your language and behavior. And that's a terrible pity."[^7]
+
+A wise man once said "Anything that we have to learn to do we learn by the actual doing of it [...] Like activities produce like dispositions."[^4] In practicing virtue we will obviously mess up from time to time. But if a mistake becomes a social crime, who will dare to be virtuous? Who will dare to even be politically correct?
+
+
+### If not this then what?
+
+I’ve been asking “what is Political Correctness?” because I really want to know what its moral core is. I’d be happy to get down to that level and really flesh it out, but perhaps there is no moral core. Perhaps I need to ask a different question.
+
+For me, the essential issue is how ought we as humans to treat other humans. Are we something special, a part of the transcendent? or mere mounds of meat? 
+
+A question this important deserves deep thought rather than slogans. And the capacity for such deep thought requires speech and the freedom to do so (for starters). 
+
+If we are to discover the truth and conform ourselves to it, rather than peer-pressure, we must think and speak.
+We should ponder and discuss _why_ humans deserve respect. 
+We should be _sensitive_ to well-meaning yet misguided value systems that are mere cloaks for the will to power. 
+
+It's a choice between shouting down and dialogue; between protest and persuasion; and ultimately between force and reason. I believe our only hope of healing is not slogans or suppression but the ability to think, speak, and deliver the fatal questions that confound ignorant and harmful speech. Anyone can shout at someone but who can dismantle a diatribe?
+
+And in the process, will we step on toes? Naturally! But we're trying to do good, not just avoid sin.[^14] Our aim in life should be more than to be a soft bubble that offends no one. That is no life at all but to be a marshmallow: pale, malleable, and easy to roast. 
 
 
 
 
+### Conclusion
+Why did I write this? First to help me organize my thoughts. Also, to try and convince you, like Obi-wan Kenobi, that "that's not the morality you're looking for." 
+I suggest you examine the standards, truths, or facts behind compulsory correctness and determine whether they are good or not.
 
-## Just Respect Mobilized?
-I'm not sure I know exactly what political correctness (to be referred to by 'PC' from here on out) is. Is it speaking up for the historically marginalized, dispossessed of power? No, I don't think so. That is activism, likely for political rights and status. 
-And activism means expressing point publicly to cause a political or societal change. So I can see how the 'political' aspect of PC can be associated with political activism, standing up for causes and such. 
+I submit to you that dialogue, persuasion, and reason[^15] are the indispensable life-preservers of civility, decency, and humanity. It seems to me that Political Correctness feels constrained by these life-preservers, preferring the freedom to flounder than to float. Yet no society I know of has ever learned how to swim without them. They drown.
 
-To my way of thinking, one may express a political opinion, demonstrate, be active, etc. on a number of issues, whether being on the side of formally unquestionably held power (like the far right) or on the side
 
-So political correctness, at least to me, is a manner for speaking and acting that continues the rally, the demonstration but in everyday life. Everywhere where PC is, is a march for something.
 
-But do we really think about what we're marching for? And where it might lead?
-
-I imagine a defender of PC might say, "PC is all about treating people with respect they deserve (and have been denied for too long)." No doubt, this is sadly true that people have been disrespected, often on categorical basis of color of skin, gender, race, and all the rest.
-
-Saying PC is about respect is a respectable thing to say. But is PC just respect mobilized?
-
-### Differences between PC and respect
-PC says you _ought_ to speak and behave a certain way _because_ of events, biases, and setbacks that need to be overcome in regards to categories of people.
-Respect beckons you to value a _person_ as special. Not because of a category, not because of setbacks, events, or historical event. The _why_ might be less gripping, but respect asks you to see others as an end in-and-of themselves. That they and we are all dear and special, not for what we represent, but rather for what we are -- human beings. 
-
-PC is more reactive as it needs justification from the past, at least on a superficial level. Respect, though our conceptions of human value, purpose, etc. have evolved over the millenia) on the other hand is a-historical, especially in the Judaeo-christian West.
-
-### Why be politically correct? 
-Did you receive an invitation in the mail to join in the march of PC? I think not. Yet PC's influence is ubiquitous. So why conform? Fear of sticking out, social pressure, having your character demeaned if you say 'Native American' instead of the latest 'First nation peoples', or even worse 'Indian'.
-
-Or maybe you immediately resonated with the message and saw this as a way to advance towards great social justice and fairness.
-
-### Why treat others with respect?
-This, taken seriously, is a more challenging question metaphysically. 
-Why? Because it depends on how you see humanity or a portion of humanity.
-
-If you're thinking that 'respect isn't enough', then it sure isn't respect your in the game for. It's something else.
 
 
 [^1]: Oxford English Languages Dictionary, 10/2/2022
+[^2]: _Political Correctness: A Force for Good? A Munk Debate_. Accessed October 22, 2022. https://www.youtube.com/watch?v=ST6kj9OEYf0.
+[^3]: Melchert
+
+[^4]: _The Nicomachean Ethics_. Aristotle. pg 32
+[^5]: If you were to exclude members of active military or those imprisoned.
+[^6]: Melchert
+
+[^7]: _Political Correctness: A Force for Good? A Munk Debate_. Accessed October 22, 2022. https://www.youtube.com/watch?v=ST6kj9OEYf0.
+
+[^8]: Hugo, Victor. _Les Miserables_. Signet Classics, pg 514.
+
+[^9]: Karl Raimund Popper,  [The Open Society and Its Enemies](https://www.goodreads.com/work/quotes/6492090)
+
+[^10]: https://speeches.byu.edu/talks/neal-a-maxwell/patience/
+[^11]: Quote from Albert Einstein
+[^12]: The Abolition of Man, C.S. Lewis, pg 44
+[^13]: _Political Correctness: A Force for Good? A Munk Debate_. Accessed October 22, 2022. https://www.youtube.com/watch?v=ST6kj9OEYf0.
+[^14]: https://calder-ty.com/posts/relaxing-standards/
+[^15]: For examples, read Plato. I recommend the Gorgias for starters.
+[^16]: http://www.archub.org/civicduty.txt
