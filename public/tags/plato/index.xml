@@ -5,7 +5,11 @@
     <link>https://www.nathancheever.com/tags/plato/</link>
     <description>Recent content in Plato on Nathan Cheever</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.nathancheever.com/tags/plato/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://www.nathancheever.com/tags/plato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Plato, the moral revolutionary</title>
       <link>https://www.nathancheever.com/post/plato/</link>
