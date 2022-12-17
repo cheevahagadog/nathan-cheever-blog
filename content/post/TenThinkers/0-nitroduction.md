@@ -39,7 +39,7 @@ So I turned to books. I read some popular self-help books. I read about characte
 
 But there was still a nagging thought of quaintness. I was still stuck. I didn't want to believe in a flat post-modernistic world; I didn't want to be a relativist. But I still didn't have the certainty I sought for.
 
-Remember, I'm just an averagee person who never took a class on philosophy in college (does Business Ethics count?). 
+Remember, I'm just an average person who never took a class on philosophy in college (does Business Ethics count?). 
 
 To be clear, this ebook is not about my journey, or even about religion per se, but rather the search for truth. 
 My hope is that by sharing with you some of the key thoughts and thinkers that have helped me in my five years of bumbling, pinball-like, sporadic searching my meager experiences and advice can give you something solid to work with.
