@@ -1,7 +1,9 @@
 ### Order
 I have talked about the potential of thinking in shapes. Now I ask, what makes a shape? 
 
-I have defined a shape as a definite thing. It cannot violate the law of non-contradiction. To use a ready example of a shape, the triangle can only have three angles and three sides, though those angles and lengths may change, but it cannot simultaneously be a square or a circle.
+Let's consider the triangle. 
+The triangle can only have three angles and three sides, though those angles and lengths may change, but it cannot simultaneously be a square or a circle.
+It cannot also be anything or nothing. I have defined a shape as a definite thing. It cannot violate the law of non-contradiction.
 
 This constraint denotes an order. This order impels a thing to have boundaries, zones of being and non-being. Order is the starting point for all things.
 

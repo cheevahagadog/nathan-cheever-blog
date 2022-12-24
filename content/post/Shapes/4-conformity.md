@@ -1,6 +1,6 @@
 ## Conformity
-Conformity. The word points to _forming_ one's self to something else. It is to comply to an external standard, character or order.
-It is to be moulded into a different shape.
+The word conformity points to _forming_ one's self to something else. It is to comply to an external standard, character or order.
+It is to be molded into a different shape.
 Changing order changes the pattern. That alters the meaning that can be gotten from it, and hence the character.
 
 [[1112/4C]]
@@ -24,6 +24,8 @@ As I've been saying, we are more like wax than rock. We are shapable. This is co
 There is good conformity and bad conformity. Let me start with bad conformity.
 
 ### Good conformity
+> _"...but if thou wilt enter into life, keep the commandments."
+
 Good conformity is becoming what we are. It is improving, refining, enhancing. Principally, it is growth and deepening. It is an acorn becoming an Oak tree. This is the caterpillar becoming a butterfly.
 This is growth and maturity. It is becoming who we are. It is "old birds teaching young birds how to fly"[^1]. 
 Good conformity avails of humility for improvement. Pride resents or blocks good conformity.
@@ -40,10 +42,34 @@ Viktor Frankl, a holocaust survivor, writes about his experiences in the concent
 Finally, the kind of conformity that leads to unity, a feeling of oneness or union with "nature, the universe or God"[^4] This is deep change of one's shape, when boundaries between what we think of as 'us' and the other becomes blurry. Our life becomes metaphorical. The perspectives and language and order of a different realm or being infiltrates into ours, leaving us with ineffable disclosures of meaning. It reorganizes our souls, making them better.
 This is like what Plato's Socrates described as coming up from the darkness of the cave and beholding the sun.
 
-### Bad conformity
-Bad conformity is deformity. This happens when the shape is lost, no longer recognizable. Deformity's synonyms point to shape to: disfigured, misshapen. This is a change that deviates from the essential order of the thing. It makes hypocrisy possible.
+Good conformity, or perhaps better said as growing into who we are, realizing our potential, does have suffering involved. To change is hard, and hard means discomfort. Climbing up a mountain is a struggle. There is pain anywhere there is growth. The refining of dross into gold takes heat. Suffering in this way is good suffering. There is suffering of another kind: confusion, incompleteness, dissolution, and meaninglessness. These are the pangs of another kind of shape-shifting: the nullification of being rather than its fulfillment.
 
-This is Winston in 1984.
+### Bad conformity - "leveling"
+Bad conformity is the forces that work at preventing, stifling and impeding distinction. Kierkegaard called this process "leveling [...] a quiet, mathematical, abstract enterprise that avoids all agitation."[^5] It is a war on individuality. If it is a war on individuality, it is a war on character. To prevent the forming of distinct honest character can only happen by getting people to yield up the search for character and conform to into a more docile, impotent mold. This is done in the name of equality. It provides safety to the conformist. No one will stare or glare at you sticking out. No unduly enthusiasm will get you mocked or make you look like a crazy idealist. There is less to fear and more comfort to take in this kind of leveling conformity because, as Kierkegaard says, "...what the individual fears more than death is reflection's judgment upon him, reflection's objection to his wanting to venture something as an individual."[^5]
+This is the state of nothing ventured, nothing lost. One is at the hand of an abstract power. It has the seductive lure of a massage. Comforting, relaxing. Yet what really happens is you're put on a table and beat upon, worked over by abstract and uninterested hands, working on shaping your mind by supplying thoughts or condemning them to coax or force compliance.
+
+For an individual shape, conformity is not following an order, for the shape has its own essential order that makes it what it is. A triangle maintaining its "triangle-ness" is not conformity but duty, for it serves the truth of its order. Leveling conformity is the working over of your shape to remove, bend, sand down, blunt, and dull your edges and contours to make your presence more bearable to something else. This is not refinement or rebuilding but vitiation.
+This is blurring or obscuring boundaries. The old order which made patterns that yielded meaning before have been altered to squelch that meaning and give a different one. One incompatible with the essential nature of the shape.
+
+### Deformity
+Beyond bad conformity, that which stifles and impedes good conformity to our true form, lies the malevolence of forces of deformity. This happens when the shape is lost, no longer recognizable. Deformity's synonyms point to shape to: disfigured, misshapen. This is a change that deviates from the essential order of the thing. It makes hypocrisy possible.
+This differs in bad conformity in that the one acted on, being deformed, is not being deformed to fit in or conform to the actors, but to be destroyed, misshapen or disfigured.
+This is flattening.
+This is the realm of propaganda - lies told to get people to believe that the teller doesn't believe.
+This is the world of 1984, and eventually Winston.
+
+When boundaries are destroyed, when the order is broken or ignored, no meaning can be found. A once meaningful life has become chaotic and meaningless. Nihilism reigns.
+
+There are the forces that will literally change your shape against your will. This is the holocaust, execution, nightmareish contemplations of the worst. Broken people and broken things come from broken ideas. A misshapen concept wreaks havoc on peace and order, yet can still offer seductive logic. 
+
+Then there are forces that will change the shape of your life through _information_ of the mind. To control your behavior, to turn you into a compliant peon, to reduce their risk and uncertainty by changing you into an inert object.
+As Emerson said: 
+
+> _"Society everywhere is in conspiracy against the manhood of every one of its members. Society is a joint-stock company, in which the members agree, for the better securing of his bread to each shareholder, to surrender the liberty and culture of the eater. The virtue in most request is conformity. Self-reliance is its aversion. It loves not realities and creators, but names and customs."_
+
+Either way, suffering is a part of life. Ours is the choice whether it will be the suffering of good conformity, of growth and attainment through struggle, failure, learning, and cutting one's way through the mindless minutia of life that impedes thought. Or, we can avoid truth and growth and suffer the pain of confusion. We can be aged prematurely by the stress caused by the internal dissonance of our mind. We can suffer as our inability to think and express ourselves, to reason based on principles we carved into the stone tablets of our souls, as other minds ride roughshod over us, leaving us tongue-tied, stupefied and lost. 
+
+To see that one has shape – dimensions of ability, distinction, difference, lines and points that demarcate their positions and actions – and to work on fashioning it into an excellent character, this is the non-conformist task. To be who you are, you _must_ be who you are. For Beethoven to be Beethoven, he must follow the mind of Beethoven and not Hayden or Mozart, despite their inspiring influence. You must not conform to alien orders and patterns, thereby abolishing the internal genuineness required to be an individual. Discover the truth and conform yourself to it, and the best form of living will result.
 
 
 
@@ -52,3 +78,4 @@ This is Winston in 1984.
 [^2]: I.e. Humility, being teachable
 [^3]: Aurelius, pg 46
 [^4]: Brooks (2), xxvii
+[^5]: Kierkegaard, Soren _Two Ages_, pg 84

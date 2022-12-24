@@ -32,7 +32,7 @@ The undoing of character is the undoing of its parts. Lack of consistent action 
 This is crudeness in action. If action continues without genuineness it becomes a sham. It's perfunctory, meaningless and arbitrary. A robot could do it. Kierkegaard called this 'crudeness', when that inward, essential passion driving force is smothered or discouraged within someone, that "one motivation"[^4] rubbed out. It is a failure to be a self.
 
 [[1112/8/2]]
-A life devoid of the essential animating principle of passion loses meaning, the "why" for it's existence. But what does the loss of meaning mean? It is the loss of a why, a logical yet not merely logical order to one's life. For no meaning can come where there is no order. 
+A life devoid of the essential animating principle of passion loses meaning, the "why" for it's existence. But what does the loss of meaning mean? It is the loss of a why, a logical yet not merely logical order to one's life. For no meaning can come where there is no order.  Endless reflection, endless equivocation, waffling back and forth is not moral. It is the resistance to taking a shape; to becoming definite. 
 
 Of course such a person can carry on in some orders. Getting up, dressing, going to work, picking up the groceries, essentially, sleepwalking through life. This is Kierkegaard's idea of crudeness. The shell of an order persists that yields no meaning other than the meaning to keep repeating itself, like a pattern for no point. Such a life is an inscrutable pattern, even and especially to himself. Life becomes an ever-darkening mystery. An endless dress-rehearsal, a pile-up of potential unadorned by action.
 
