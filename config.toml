@@ -6,7 +6,7 @@ languageCode = "en-us"
 disqusShortname = ""
 googleAnalytics = "G-FQNVRR43SG"
 preserveTaxonomyNames = true
-paginate = 8 #frontpage pagination
+paginate = 10 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
@@ -43,7 +43,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "nathan.cheever12@gmail.com"
+  email          = "nate@nathancheever.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/data_cheeves"
@@ -68,25 +68,15 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title =  "Martin Fowler"
   href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
-  
   [[params.addtional_menus]]
   title =  "Podcast"
   href =  "/top/podcast/"
   [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/top/archive/"
-  #[[params.addtional_menus]]
-  #title =  "ABOUT"
-  #href =  "/top/about/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
