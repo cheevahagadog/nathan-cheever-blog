@@ -11,7 +11,7 @@ categories: [Writing, DeadTED]
 
 NOTES FOR THE READER:
 
-I’ve tried to imagine him on a stage and add cues to how I imagine him saying things, pausing at times, etc. I’ve pulled together fragments across his book “The Gay Science” and sometimes I abbreviate with ‘...’. These are not to be read as a dramatic pause, but more to indicate that I’ve skipped some of his words.
+I’ve tried to imagine him on a stage and added cues for how I imagine him saying things, pausing at times, etc. As I’ve pulled together fragments across his book “The Gay Science”, sometimes I abbreviate with ‘...’. These are not to be read as a dramatic pause, but more to indicate that I’ve skipped some of his words.
 I’ve tried to keep Nietzsche’s italicization's. My words/edits I’ve tried to keep to a minimum and they are indicated in blue (coming soon).
 {{< rawhtml >}}
 <p>Listen along with the recording here:</p>
