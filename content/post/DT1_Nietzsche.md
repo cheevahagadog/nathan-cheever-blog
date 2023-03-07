@@ -1,25 +1,26 @@
 ---
 layout: post
 title:  "DeadTED #1: God Is Dead"
-subtitle: "DeadTED #1 By Friedrich Nietzsche"
+subtitle: "A fictional TED-talk-like speech given by Nietzsche from his book 'The Gay Science'."
 date: "2023-03-06"
 author: "Nathan Cheever"
-description: ""
+description: "A fictional TED-talk-like speech given by Nietzsche from his book 'The Gay Science'."
 
 categories: [Writing, DeadTED]
 ---
 
-NOTE TO THE READER:
+NOTES FOR THE READER:
 
-I’ve tried to imagine him on a stage and add cues to how I imagine him saying things, pausing at times, etc. I’ve pulled together fragments across his book “The Gay Science” and sometimes I abbreviate with ‘...’. These are not to be read as a dramatic pause, but more as housekeeping for me to transfer this into the text to indicate that I’ve skipped some of his words.
+I’ve tried to imagine him on a stage and add cues to how I imagine him saying things, pausing at times, etc. I’ve pulled together fragments across his book “The Gay Science” and sometimes I abbreviate with ‘...’. These are not to be read as a dramatic pause, but more to indicate that I’ve skipped some of his words.
+I’ve tried to keep Nietzsche’s italicization's. My words/edits I’ve tried to keep to a minimum and they are indicated in blue (coming soon).
+{{< rawhtml >}}
+<p>Listen along with the recording here:</p>
+<iframe src="https://anchor.fm/nathan-smith-cheeve/embed/episodes/DeadTED-1-God-Is-Dead-Friedrich-Nietzsche-e2001qr" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
 
-There are also other references to the section in the text that can be skipped when reading.
-I’ve tried to keep Nietzsche’s italicization's. My words/edits I’ve tried to keep to a minimum and they are indicated in blue.
-
-
+----------------------------------------------
 # God Is Dead, Friedrich Nietzsche
 ### December 1882, Sils-Maria SWITZERLAND
-
 \[Nietzsche enters stage right, walks to the center of the stage, and stops. He pulls out his glasses\]
 
 To find everything deep is an inconvenient quality: it makes us more constantly strain our eyes,  \[puts on his glasses\] and in the end we always find more than we wish.
@@ -139,7 +140,7 @@ I have single-handedly made this tragedy of tragedies; I have entangled morality
 Where are we to find a tragic resolution? \[Pause\] Should we begin to consider a comic solution?
 
 (Poem #63)
-I will leave you with this poem. It's called "Star Morality":\\
+I will leave you with this poem. It's called "Star Morality":
 
 Foredoomed to spaces vast and far,
 What matters darkness to the star?
