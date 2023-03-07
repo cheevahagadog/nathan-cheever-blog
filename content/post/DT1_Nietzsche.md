@@ -15,7 +15,7 @@ I’ve tried to imagine him on a stage and added cues for how I imagine him sayi
 I’ve tried to keep Nietzsche’s italicization's. My words/edits I’ve tried to keep to a minimum and they are indicated in blue (coming soon).
 {{< rawhtml >}}
 <p>Listen along with the recording here:</p>
-<iframe src="https://anchor.fm/nathan-smith-cheeve/embed/episodes/DeadTED-1-God-Is-Dead-Friedrich-Nietzsche-e2001qr" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/nathan-smith-cheeve/embed/episodes/DeadTED-1-God-Is-Dead-Friedrich-Nietzsche-e2001qr" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
 ----------------------------------------------
