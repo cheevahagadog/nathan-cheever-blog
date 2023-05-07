@@ -1,3 +1,18 @@
+
+
+
+
+
+
+---
+layout:  post
+title: "3b-character"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
+
 ## Character
 The word "character" can mean different things in different contexts. In one, it might be an actor on a stage playing a part. In another, a character might refer to a marking, a letter or symbol that carries linguistic or even artistic weight. In common parlance it refers to how someone is known.
 [[1112/3/-1/2]]

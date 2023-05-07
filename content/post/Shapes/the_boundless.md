@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "the boundless"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
+
 ## The Boundless
 What happens when we go beyond shape to the shapeless? To the boundless, the infinite? To the void?
 How does our thinking work there? Is it of any use?

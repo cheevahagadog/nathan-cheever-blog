@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "4-conformity"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
+
 ## Conformity
 The word conformity points to _forming_ one's self to something else. It is to comply to an external standard, character or order.
 It is to be molded into a different shape.
@@ -70,7 +79,6 @@ As Emerson said:
 Either way, suffering is a part of life. Ours is the choice whether it will be the suffering of good conformity, of growth and attainment through struggle, failure, learning, and cutting one's way through the mindless minutia of life that impedes thought. Or, we can avoid truth and growth and suffer the pain of confusion. We can be aged prematurely by the stress caused by the internal dissonance of our mind. We can suffer as our inability to think and express ourselves, to reason based on principles we carved into the stone tablets of our souls, as other minds ride roughshod over us, leaving us tongue-tied, stupefied and lost. 
 
 To see that one has shape – dimensions of ability, distinction, difference, lines and points that demarcate their positions and actions – and to work on fashioning it into an excellent character, this is the non-conformist task. To be who you are, you _must_ be who you are. For Beethoven to be Beethoven, he must follow the mind of Beethoven and not Hayden or Mozart, despite their inspiring influence. You must not conform to alien orders and patterns, thereby abolishing the internal genuineness required to be an individual. Discover the truth and conform yourself to it, and the best form of living will result.
-
 
 
 

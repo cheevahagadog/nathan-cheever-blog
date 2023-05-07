@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "7-telos"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
+
 > "Whether it be the sweeping eagle in his flight, or the open apple-blossom, the toiling work-horse, the blithe swan, the branching oak, the winding stream at its base, the drifting clouds, over all the coursing sun,  **form ever follows function**, and this is the law. Where function does not change, form does not change. The granite rocks, the ever-brooding hills, remain for ages; the lightning lives, comes into shape, and dies, in a twinkling.  It is the pervading law of all things organic and inorganic, of all things physical and metaphysical, of all things human and all things superhuman, of all true manifestations of the head, of the heart, of the soul, that the life is recognizable in its expression, that form ever follows function. _This is the law._"
             – Louis Henry Sullivan (American Architect, considered the father of the skyscraper, and mentor to Frank Lloyd Wright)[^3]
 

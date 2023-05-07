@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "1-Meditations"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
+
 # Meditations on Shape
 
 Everything you see and touch has a shape. It's an elemental property of reality. Shape is an essential to what a thing is.
@@ -8,6 +17,7 @@ Shape is a powerful tool for understanding the world, from biology to chemistry 
 To be informed is to be shaped by an idea. And this is of the utmost importance. We are being massaged by ideas constantly. Through advertising, media, videos, writing, these can and do exert an influence on the shape of our thoughts. Where the mind goes eventually the body will follow. What is shaped outwardly was first shaped within.
 
 The language of shape hides in plain sight in everyday language.
+
 ### Hiding in plain sight
 May I inform you of something?
 
@@ -24,7 +34,7 @@ If I took this literal meaning of the word shape as the physical dimensions of t
 
 The language of shape appears in the natural sciences. The phenotype of an organism, the structure of a molecule, the angle of a ramp, the graph of a function. 
 
-I've noticed it crop up as an important concept in philosophy. When we speak of character, we might think of how someone is known. The word comes from Greek meaning a person or instrument that engraves or impresses. Letters are characters - engraven figures. Plato, considered by many to be the greatest philosopher of the western tradition[^3], considered geometry a gateway to the realm of absolute truth, the realm of the Forms.
+I've noticed it crop up as an important concept in philosophy. When we speak of character, we might think of how someone is known. The word comes from Greek meaning a person or instrument that engraves or impresses. Letters are characters - engraved figures. Plato, considered by many to be the greatest philosopher of the western tradition[^3], considered geometry a gateway to the realm of absolute truth, the realm of the Forms.
 
 The language and logic of shape hides in the background of every conversation.
 We complain of formalities (that which pertains to the outward form or shape or appearance).

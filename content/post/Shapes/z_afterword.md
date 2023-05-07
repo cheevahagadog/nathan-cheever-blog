@@ -1,9 +1,16 @@
-# Afterword
+---
+layout:  post
+title: "z_afterword"
+author:  "Nathan Cheever"
+published: false
+tags: [form]
+categories: [Writing]
+---
 
+# Afterword
 This book has been a joint-exploration. I didn't always know where it was going to go, but there seemed to be a truth worth pursuing and discussing. The language and thinking of shapes is so ubiquitous that I needed and wanted to look into what might connect it. How does it hang together and make sense? 
 
 If there were a few takeaways for me on this journey they would be:
-
 
 1. Shape is not an idle metaphor. The terms and logic of shape apply to physical things as well as non-physical things.
 2. Limits make order possible. Order is the essence of patterns. Patterns make life intelligible by disclosing meaning. 
