@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.nathancheever.com/post/past/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.nathancheever.com/categories/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/scholastic-style/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/categories/writing/</loc>
+    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/life_in_the_face/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.nathancheever.com/tags/philosophy/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nathancheever.com/categories/deadted/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nathancheever.com/post/dt1_nietzsche/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.nathancheever.com/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.nathancheever.com/categories/writing/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.nathancheever.com/tags/philosophy/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.nathancheever.com/tags/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.nathancheever.com/post/why_philosophy/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
@@ -90,25 +99,13 @@
   </url><url>
     <loc>https://www.nathancheever.com/post/deadteds/nietzschesthegayscience/</loc>
   </url><url>
+    <loc>https://www.nathancheever.com/post/fountainofyouth/start-1/</loc>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/fountainofyouth/start-2/</loc>
+  </url><url>
+    <loc>https://www.nathancheever.com/post/newsletter/20230323222134/</loc>
+  </url><url>
     <loc>https://www.nathancheever.com/post/newsletter/scratch/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/0-preface/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/1-meditations/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/2-order/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/3a-boundaries/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/3b-character/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/4-conformity/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/7-telos/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/the_boundless/</loc>
-  </url><url>
-    <loc>https://www.nathancheever.com/post/shapes/z_afterword/</loc>
   </url><url>
     <loc>https://www.nathancheever.com/post/tenthinkers/0-nitroduction/</loc>
   </url><url>
