@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "0-Introduction"
+author:  "Nathan Cheever"
+published: false
+tags: [10thinker]
+categories: [Writing]
+---
+
 # Introduction
 
 Five years ago, I decided it was time for spiritual and intellectual remodeling.

@@ -1,3 +1,12 @@
+---
+layout:  post
+title: "1-Emerson"
+author:  "Nathan Cheever"
+published: false
+tags: [10thinkers]
+categories: [Writing]
+---
+
 ![b4193d248b28b505eeb4377948b1bf55.png](b4193d248b28b505eeb4377948b1bf55.png)
 # Ralph Waldo Emerson
 
