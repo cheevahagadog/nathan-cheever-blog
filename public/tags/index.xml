@@ -6,31 +6,22 @@
     <description>Recent content in Tags on Nathan Cheever</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>philosophy</title>
-      <link>https://www.nathancheever.com/tags/philosophy/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>form</title>
       <link>https://www.nathancheever.com/tags/form/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.nathancheever.com/tags/form/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>scholastic style</title>
-      <link>https://www.nathancheever.com/tags/scholastic-style/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <title>philosophy</title>
+      <link>https://www.nathancheever.com/tags/philosophy/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nathancheever.com/tags/scholastic-style/</guid>
+      <guid>https://www.nathancheever.com/tags/philosophy/</guid>
       <description></description>
     </item>
     
@@ -121,6 +112,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.nathancheever.com/tags/plato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scholastic style</title>
+      <link>https://www.nathancheever.com/tags/scholastic-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nathancheever.com/tags/scholastic-style/</guid>
       <description></description>
     </item>
     
