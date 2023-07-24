@@ -1,8 +1,7 @@
 ---
 layout: post
-
 title:  "Don't be upgraded"
-subtitle: "“Creative destruction” isn’t just about last year’s iPhones getting thrown out. It’s valid for our denigrating human competencies."
+subtitle: "'Creative destruction' isn't limited to throwing out last year's iPhone. Technology upgrades can distract us from denigrating human capabilities."
 date: "2022-06-13"
 author: "Nathan Cheever"
 description: "Over the weekend I bought a fanny-pack, an analog planner, and a bunch of note cards. It felt weird, but refreshingly analog. That's how much of a degenerate I am."
