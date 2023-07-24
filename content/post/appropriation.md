@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Don't be upgraded"
-subtitle: "The phone is nothing compared to the hand holding it"
+subtitle: "“Creative destruction” isn’t just about last year’s iPhones getting thrown out. It’s valid for our denigrating human competencies."
 date: "2022-06-13"
 author: "Nathan Cheever"
 description: "Over the weekend I bought a fanny-pack, an analog planner, and a bunch of note cards. It felt weird, but refreshingly analog. That's how much of a degenerate I am."
@@ -42,5 +42,6 @@ I'd rather have an [analog](https://www.nathancheever.com/post/zettlekasten/) no
 I'd rather spend a few minutes writing an honest email than clicking whatever the auto-complete recommends.   
 I'd rather write letters to my friends and family rather than an email. 
 
-I'd rather struggle like a human than be upgraded like an app.
+We should remember that newer does not necessarily mean better[^1]. What is novel may not be valuable. If you're not testing that assumption, you might be operating on programming that is unhelpful to your health, dreams, and values. Humans can challenge ideas but technology does not. It just follows programming. To the extent we blindly follow programming, we are indistinguishable from the product. An increase in version number might mean a decrease in the barbarian inside you. 
 
+[^1]: An example of ageism?
