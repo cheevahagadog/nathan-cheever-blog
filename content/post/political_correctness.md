@@ -1,6 +1,6 @@
 ---
 layout:  post
-title: "Compulsion Without a Core"
+title: "Compulsion or Compassion?"
 subtitle: "A look at what’s behind Political Correctness"
 author:  "Nathan Cheever"
 date: 2022-10-21
