@@ -6,22 +6,22 @@
     <description>Recent content in Tags on Nathan Cheever</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathancheever.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>philosophy</title>
+      <link>https://www.nathancheever.com/tags/philosophy/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nathancheever.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>form</title>
       <link>https://www.nathancheever.com/tags/form/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.nathancheever.com/tags/form/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://www.nathancheever.com/tags/philosophy/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nathancheever.com/tags/philosophy/</guid>
       <description></description>
     </item>
     
@@ -94,6 +94,15 @@
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.nathancheever.com/tags/ordinary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axiology</title>
+      <link>https://www.nathancheever.com/tags/axiology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nathancheever.com/tags/axiology/</guid>
       <description></description>
     </item>
     
