@@ -2,8 +2,6 @@
 layout: post
 title: "Article 13"
 subtitle: "Is there any value in the Past?"
-author: "Nathan Cheever"
-date: 2023-05-03
 #image: "/img/karolis-milisauskas-GqQvtUA3dvw-unsplash.jpg"
 
 tags: [scholastic style]
@@ -19,7 +17,7 @@ categories: [Writing]
 
 **Objection 3**:  From Aristotle we learn that past-tense demonstrative rhetoric is often used to find and place blame. Trauma, regret, shame, and loss stem from the past, making it fertile ground for determining blame and punishing others or ourselves. The past-tense cannot talk about values and action now nor how to plan for choices to be made in the future. 
 
-**On the contrary,** we are who we are because of the past. Viktor Frankl, the great Austrian psychiatrist, Holocaust survivor, and author of _Man's Search for Meaning_ writes of the past as a balm and the source of a meaningful life. The past is a vault wherein all our "good deeds done, the loves loved...the sufferings borne with courage and dignity," are all safely delivered and deposited. The past safely stores all the actualized meaning of our lives. All we have to do is remember.
+**On the contrary,** to deny the past value is to deny ourselves of value, since we are who we are because of the past. Viktor Frankl, the great Austrian psychiatrist, Holocaust survivor, and author of _Man's Search for Meaning_ writes of the past as a balm and the source of a meaningful life. The past is a vault wherein all our "good deeds done, the loves loved...the sufferings borne with courage and dignity," are all safely delivered and deposited. The past safely stores all the actualized meaning of our lives. All we have to do is remember.
 
 > "From this one may see that there is no reason to pity old people. Instead, young people should envy them. It is true that the old have no opportunities, no possibilities in the future. **But they have more than that. Instead of possibilities in the future, they have realities in the past** — the potentialities they have actualized, the meanings they have fulfilled, the values they have realized – and nothing and nobody can ever remove these assets from the past."
 
