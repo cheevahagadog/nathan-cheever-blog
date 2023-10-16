@@ -35,7 +35,7 @@ We must get weird, which is to say, act more human. We've gotta have the convers
  When we learn what sustained people for millennia -- those good, true, and beautiful things that have imbue meaning and purpose in people's lives for centuries -- we can rightly judge the appropriateness of cell-phone technology as means towards that end.
 
 I'm no luddite. I have an iPhone (7) but I find myself increasingly wanting the appropriate technologies for the job, even if friction goes up. (And what are we in such a hurry for anyways!)
-
+ 
 I'd rather have a well-worn map of my city so I can find my way around.   
 I'd rather have an [analog](https://www.nathancheever.com/post/zettlekasten/) note-taking system than a digital one.  
 I'd rather spend a few minutes writing an honest email than clicking whatever the auto-complete recommends.   
@@ -43,4 +43,7 @@ I'd rather write letters to my friends and family rather than an email.
 
 We should remember that newer does not necessarily mean better[^1]. What is novel may not be valuable. If you're not testing that assumption, you might be operating on programming that is unhelpful to your health, dreams, and values. Humans can challenge ideas but technology does not. It just follows programming. To the extent we blindly follow programming, we are indistinguishable from the product. An increase in version number might mean a decrease in the barbarian inside you. 
 
+ _[UPDATE: Not long after writing this piece, I decided to commit to trying a year without the smartphone. As of now it's been more than one year and very happy with my choice. I'll have to write more about the change in another piece. So I might just be a luddite after all.]_
+ 
 [^1]: An example of ageism?
+
