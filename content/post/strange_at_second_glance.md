@@ -2,7 +2,7 @@
 layout: post
 title:  "Marginal Strangeness vs. Total Strangeness"
 # subtitle: "Sometimes things we"
-date: "2023-02-01"
+date: "2024-02-01"
 author: "Nathan Cheever"
 categories: [Writing]
 ---
