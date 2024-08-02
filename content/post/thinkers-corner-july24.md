@@ -1,35 +1,17 @@
 ---
 layout: post
-
-title: "A New Post...It's been a while!"
-subtitle: "Days are the units of life"
-excerpt: "Eventually, my life will just be as good as my days. So I need to enjoy my days if I am going to enjoy my life."
+title: "Thinkers Corner, July 2024"
+subtitle: "Adversity stinks, but it might be more favorable than good fortune."
 author: "Nathan Cheever"
-date: 2021-01-05
-#description: "What does this do?"
-image: "/img/karolis-milisauskas-GqQvtUA3dvw-unsplash.jpg"
+date: 2024-07-30
 
-tags: [life lessons]
-
+tags: [opinion-piece]
 categories: [Writing]
 
 ---
 
-One golden afternoon last October, while taking a walk, I wrote a thought down: 
-_**"Eventually, my life will just be as good as my days. So I need to enjoy my days if I am going to enjoy my life."**_
+While awaiting his execution in prison in 524 AD, Boethius wrote a short work that would become a best-seller for a thousand years: "The Consolation of Philosophy". In it, he concludes that bad luck is more favorable to humans than good fortune.
 
-Embedded in there is the idea that no one state or achievement will likely "make" my life. Instead of some grandiose event, life's quality is subject to more prosaic influences like the quality of our relationships, sleep, self-talk, hobbies, and food.
+Why? Fortune (personified as a fickle goddess) is more honest in revealing her ways than good luck, which can easily deceive us into false security. We are more free through realizing our fragility than with the cloying pampering of good luck. It helps us know ourselves better, and that is pretty important.
 
-While this might sound rather boring, it's actually quite reassuring that the requirements are so low. I don't need fame or glory or a Rolls Royce (though that would be nice). I already have everything and more that I need, and I receive more daily. 
-
-So, past a certain point of living comfort, the quality of my life isn't going to be determined by my address, car, or other possessions.
-
-And if we try to make every day special, they really aren't special. They'll mostly be ordinary. 
-
-So we need to embrace our ordinary days. There will be special days, no doubt, but we shouldn't hinge it all on them. 
-
-If the ordinary days are less than satisfying, **you just elevate your ordinary**. Pick your favorite approach for doing that.
-
-**Days are the units of life.**
-
-"Eventually, my life will just be as good as my days. So I need to enjoy my days if I am going to enjoy my life."
+Still, adversity stinks, but it doesn't have to control our inner state if we choose. There is something better than good luck.
