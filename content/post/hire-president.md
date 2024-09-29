@@ -20,7 +20,7 @@ A middle-of-the-road option might be to say the politician's purpose is to enact
 
 This sounds passable, but it doesn’t get us much closer. For the next question is, if a politician serves the the state, what then is the purpose of the state? What principles of justice, truth, or freedom do they appeal to when justifying their laws? Do those words mean anything or are they just high-sounding campaign slogans? How much control should the politician have over the lives of the citizens?
 
-We’re dealing with questions that most people won’t touch with a ten-foot pole. But this exercise matters.Once we can begin to understand what the politician’s purpose is, it will become clearer what makes a good or bad one. Then we can see which of the candidates, if any, meet that standard.
+We’re dealing with questions that most people won’t touch with a ten-foot pole. But this exercise matters. Once we can begin to understand what the politician’s purpose is, it will become clearer what makes a good or bad one. Then we can see which of the candidates, if any, meet that standard.
 
 One source of wisdom is the man who wrote the book on the subject. In Book I of his Politics, Aristotle gives us a clue. 
 > “It is clearly better that property should be private, but the use of it common; and the special business of the legislator is to create in men this benevolent disposition.”[^2]
