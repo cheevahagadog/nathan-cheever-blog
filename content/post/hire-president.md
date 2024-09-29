@@ -10,6 +10,8 @@ tags: [politics]
 categories: [Writing]
 ---
 
+*Note: This was first published in the [Stillwater Lokal Life](https://www.stillwaterlokallife.com/) newspaper, issue 6, page 4, on Sept 27*
+
 I know you’re tired of seeing political ads and commercials. I understand it’s a touchy subject. But it’s also a deeply fascinating topic once you step out of the stream of current politics and give yourself space to think. And so before you head off to cast your ballot for the presidential election this November, I’d like to leave this thought/question with you:
 
 *What is a politician’s purpose? What are they really supposed to do?*[^1]
